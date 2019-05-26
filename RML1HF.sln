@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RML1HF", "RML1HF\RML1HF.csproj", "{F9E16E27-6466-4679-9E9D-D807DC6D8699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E16E27-6466-4679-9E9D-D807DC6D8699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E16E27-6466-4679-9E9D-D807DC6D8699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E16E27-6466-4679-9E9D-D807DC6D8699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E16E27-6466-4679-9E9D-D807DC6D8699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17B0F03E-D2BB-481A-AC12-409F1EF8A7B9}
+	EndGlobalSection
+EndGlobal
